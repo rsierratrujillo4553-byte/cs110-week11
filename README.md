@@ -3,7 +3,7 @@
 Learner / folder: Rodolfo Sierra-Trujillo
 Engine route: unity
 Work mode: team
-My personal repository / one Canvas submission link: https://github.com/rsierratrujillo4553-byte/cs110
+My personal repository / one Canvas submission link: https://github.com/rsierratrujillo4553-byte/cs110-week11
 Team repository: https://github.com/Lexicon-Lexxie/CS110-Awayzo
 
 ## GitHub checks before and after work
@@ -62,7 +62,7 @@ Overall, the seminar helped me understand how Unity works and how I can use my C
 ## My host translation
 
 Engine / version / language:
-Unity 6.3.27f2 / C#
+Unity 6000.6.7f1 / C#
 
 Familiar C# idea → engine equivalent:
 Classes are blueprints for objects. In Unity, GameObjects use components, and C# scripts can be attached to them to give them different functions and behaviors. Variables and properties can also appear in the Unity Inspector.
@@ -89,32 +89,29 @@ I had no errors. All three scripts compiled and worked on the first run. The onl
 
 ## 4. My experiment and return to the team
 
-My question / prediction:
-I want to see how C# scripts control GameObjects in Unity. I predict that changing the speed variable will make an object move faster or slower.
+**My question / prediction:**
+I wanted to see how changing the movement and rotation speeds would affect two cubes in Unity. I predicted that the cube with higher values would move and rotate faster.
 
-Change beyond the base:
-I will change the movement speed and test different values to see how they affect the object.
+**Change beyond the base:**
+I created two cubes and changed the second cube's movement speed to 4 and rotation speed to 100 degrees per second. I also created a prefab so I could reuse my GameObject.
 
-Observed result or exact error / next step:
-My next step is to attach my C# script to a cube, run the game, and test different movement speeds to see what changes.
+**Observed result or exact error / next step:**
+Both cubes successfully moved, rotated, and changed colors when I ran the game. The second cube moved and rotated faster than the first cube, just like I predicted. I didn't have any errors during my final test.
 
-Prefab or saved scene and two-instance comparison:
-I will create a prefab of my cube and place two copies in the scene. I will give each cube a different speed to compare how they move.
+**Prefab or saved scene and two-instance comparison:**
+I saved my work in 11A-Unity.unity and created a prefab instance. My first cube has a movement speed of 2 and a rotation speed of 90 degrees per second. My second cube has a movement speed of 4 and a rotation speed of 100 degrees per second. When I tested them, the second cube moved and rotated faster.
 
-What I promised → what I actually returned:
-I promised to investigate how C# scripts and components work in Unity. I will return with screenshots, notes, and an example showing how a script controls a GameObject.
+**What I promised → what I actually returned:**
+I promised to investigate how C# scripts and components work in Unity. I successfully created two cubes, attached C# scripts, changed their settings, and tested their behaviors. I also created a prefab and saved my evidence.
 
-My interpretation/recommendation and supporting evidence:
-I think using C# scripts and components makes it easier to control objects in Unity. I will use screenshots of my Inspector settings and movement tests as evidence.
+**My interpretation/recommendation and supporting evidence:**
+I learned that the same C# scripts can control multiple GameObjects with different settings. I recommend testing different values in the Inspector to see how they affect each object. My Unity scene and screenshots are my supporting evidence.
 
-How the team will use it; what I learned from someone else:
-My team can use my findings to understand how scripts control objects. From the professor's demonstration, I learned that Unity uses Start() for initialization and Update() for repeated actions.
+**How the team will use it; what I learned from someone else:**
+My team can use my experiment to understand how C# scripts control multiple GameObjects and how prefabs can be reused. From my professor's lecture, I learned how components, properties, and the Unity game loop work together.
 
-Checked source or supplied-claim correction:
-I used my professor's Unity lecture as my source. I learned that changes made in the Inspector during Play Mode usually reset when the game stops, so important changes should be made outside Play Mode.
-
-## Source and evidence
-
+**Checked source or supplied-claim correction:**
+I used my professor's Unity lecture to understand how GameObjects, components, and prefabs work. I also learned that changes made during Play Mode usually reset when the game stops, so important settings should be changed outside Play Mode.
 ## Source and evidence
 
 For my individual project, I used Unity 6.6 and C# to practice what we learned during the seminar. I created two cubes and used C# scripts to make them move, rotate, and change colors.
