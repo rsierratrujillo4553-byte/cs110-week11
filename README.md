@@ -1,6 +1,6 @@
 # CS110 Action 11A — My seminar and engine experiment
 
-Learner / folder: [add your name or approved identifier]
+Learner / folder: Rodolfo Sierra-Trujillo
 Engine route: unity
 Work mode: team
 My personal repository / one Canvas submission link: https://github.com/rsierratrujillo4553-byte/cs110
@@ -8,8 +8,10 @@ Team repository: https://github.com/Lexicon-Lexxie/CS110-Awayzo
 
 ## GitHub checks before and after work
 
-[Not recorded yet — complete this section.]
-
+Before work, local project / remote / latest push checked: Checked and working: opened my local CS110 folder, remote is github.com/rsierratrujillo4553-byte/cs110-week11.
+Personal repository URL and file/image/link check result: Checked and working: GitHub shows my latest files.
+Team repository / member links checked: Checked and working: team repo https://github.com/Lexicon-Lexxie/CS110-Awayzo.
+Final push and instructor-access check result: Final push done to https://github.com/Lexicon-Lexxie/CS110-Lexxie/tree/main/Week11/11A. Opened the repo in a private browser window and it works.
 ## 1. Our Attention Accord — shared plan/reference
 
 Huddle start / end (at least 10 minutes): 2:00 PM to 2:30 PM (30 minutes)
