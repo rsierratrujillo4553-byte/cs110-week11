@@ -115,10 +115,28 @@ I used my professor's Unity lecture as my source. I learned that changes made in
 
 ## Source and evidence
 
-[Link my project, scene, whiteboard screenshots/photos, base/extension evidence and checked source. All my authored work belongs in this personal repository.]
+## Source and evidence
 
-My individual engine base status: [working / blocked — explain].
-My individual extension status: [result / error and next step].
-Help received: [describe].
+For my individual project, I used Unity 6.6 and C# to practice what we learned during the seminar. I created two cubes and used C# scripts to make them move, rotate, and change colors.
 
-Commit and push all my authored work, including board captures, notes, project and evidence, to my personal repository. Open the pushed files/images and test the personal URL and applicable team URL/member links. Submit the one personal repository URL in Canvas; this README contains the team link if applicable. This export is not Canvas submission.
+**My project and evidence:**
+- Personal GitHub repository: https://github.com/rsierratrujillo4553-byte/cs110-week11
+- Evidence folder: https://github.com/rsierratrujillo4553-byte/cs110-week11/tree/main/11A/Evidence
+- Unity scene: MainScene
+- C# scripts: TranslateObject.cs, RotateObject.cs, and ChangeColor.cs
+- Team repository: https://github.com/Lexicon-Lexxie/CS110-Awayzo
+- Checked source: My professor's Unity seminar
+
+**My individual engine base status:**
+Working — I successfully created my cube and used three C# scripts to make it move, rotate, and change colors. All three functions worked when I tested the game.
+
+**My individual extension status:**
+Working — I added a second cube to my Unity scene. Both cubes move, rotate, and change colors. My next step is to compare their settings and record the differences.
+
+**Help received:**
+I used my professor's lecture to help me understand Unity, C# scripts, and how to organize my project.
+
+**What I learned:**
+I learned how to use C# scripts to control GameObjects in Unity. I also learned how components work and how to test different behaviors using the Inspector.
+
+My project files, screenshots, and other evidence are organized in my personal GitHub repository.
