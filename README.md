@@ -48,8 +48,17 @@ This will help our team understand how to organize our Unity project, create reu
 
 ## 2. My seminar notes
 
-[Not recorded yet — complete this section.]
+During today's seminar, my professor explained how game development connects to what we already learned in C# and Visual Studio. He talked about how classes are blueprints for objects, variables store information, and functions perform actions.
 
+We also learned about Unity's interface and how the Hierarchy, Inspector, Scene view, and Project window work together. The professor showed us how to create a GameObject, add components, and attach C# scripts to control objects.
+
+Another important topic was organizing our Unity project. We should create folders for our scenes, scripts, prefabs, and other assets to keep everything organized, especially when working with a team.
+
+The professor also demonstrated how to make an object move, rotate, and change colors using C# scripts. He explained how we can change variables in the Inspector to test different behaviors.
+
+One important thing I learned is that changes made during Play Mode usually reset when we stop the game. I also learned that understanding the programming concepts we already know makes learning a new game engine easier.
+
+Overall, the seminar helped me understand how Unity works and how I can use my C# knowledge to start creating games.
 ## My host translation
 
 Engine / version / language:
